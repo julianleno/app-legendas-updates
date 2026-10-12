@@ -1,7 +1,7 @@
 {
-  "version": "0.8.2",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.2/AppLegendas-Setup-0.8.2.exe",
-  "sha256": "0c1148e318f1914232cc927045266edd989769e5118a5b184f669a61eab28809",
-  "notes": "- Vícios e repetições na aba de cortes: procura na transcrição \"hã\", \"ahn\", \"éé\", o \"é\" solto depois de vírgula ou pausa, palavras dobradas (\"que que\") e frases recomeçadas (mantém a última tentativa). Tudo aparece numa lista desmarcada, com o que sai riscado; a lista de vícios é editável. Cortar em sequência nova corta os silêncios e os itens marcados de uma vez.\n- Transcrição literal na aba Legendas: mantém \"hã\", \"é\" e \"né\" no texto (o Whisper limpa esses vícios sem ela). - A aba Silêncios virou Cortes.",
-  "publishedAt": "2026-10-12T20:33:22.200Z"
+  "version": "0.8.3",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.3/AppLegendas-Setup-0.8.3.exe",
+  "sha256": "4676bc184b7a9b52571ab050b7316af8d05808b70bde15f9fd508f8889ce67c8",
+  "notes": "- Dicionário e substituir no passo 1: correções fixas, uma por linha (jota = Jota, bom jardim = Bom Jardim), aplicadas a toda transcrição nova; os nomes certos entram como dica para a transcrição. Trocar em todas as legendas busca e troca no texto inteiro. O tempo de cada palavra é mantido. - Quebra natural das legendas: uma legenda não termina mais em artigo ou preposição (\"vou para a\" / \"praia\"), fecha no ponto final e na vírgula, respeita as pausas da fala e não divide nomes próprios (\"no Bom Jardim\"). Em vez de deixar uma palavrinha sozinha na tela, a legenda leva uma palavra a mais. Conferido em três transcrições reais.",
+  "publishedAt": "2026-10-12T20:44:37.272Z"
 }
