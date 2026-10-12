@@ -1,7 +1,7 @@
 {
-  "version": "0.8.1",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.1/AppLegendas-Setup-0.8.1.exe",
-  "sha256": "964ac4abe754809de0e98b345422cdce23bed3b96d77d0e50b38a7555342528f",
-  "notes": "- O corte de silêncio comia palavras (\"segunda-feira\" virava \"feira\"). Em fala rápida gravada no celular, as sílabas curtas entre quase-silêncios eram tratadas como cliques e apagadas; agora só ruídos de menos de 30 ms são ignorados.\n- Em áudio sempre alto (música de fundo, compressão), o limite automático caía no nível da fala mais baixa. Ficou mais conservador, e a fala só termina abaixo de um segundo limite, mais baixo (como no Detect Silence do Cubase), para o fim das palavras não virar pausa. Conferido com a transcrição palavra por palavra em três vídeos reais.",
-  "publishedAt": "2026-10-12T20:13:07.528Z"
+  "version": "0.8.2",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.2/AppLegendas-Setup-0.8.2.exe",
+  "sha256": "0c1148e318f1914232cc927045266edd989769e5118a5b184f669a61eab28809",
+  "notes": "- Vícios e repetições na aba de cortes: procura na transcrição \"hã\", \"ahn\", \"éé\", o \"é\" solto depois de vírgula ou pausa, palavras dobradas (\"que que\") e frases recomeçadas (mantém a última tentativa). Tudo aparece numa lista desmarcada, com o que sai riscado; a lista de vícios é editável. Cortar em sequência nova corta os silêncios e os itens marcados de uma vez.\n- Transcrição literal na aba Legendas: mantém \"hã\", \"é\" e \"né\" no texto (o Whisper limpa esses vícios sem ela). - A aba Silêncios virou Cortes.",
+  "publishedAt": "2026-10-12T20:33:22.200Z"
 }
