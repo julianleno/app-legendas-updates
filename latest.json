@@ -1,0 +1,7 @@
+{
+  "version": "0.7.7",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.7.7/AppLegendas-Setup-0.7.7.exe",
+  "sha256": "5fbe9342c60883f2e17203a9f3fce2436986507e1209ed077ca54dadd5ac2de3",
+  "notes": "- Aviso de versão nova (#25): ao abrir, no máximo uma vez por dia, o painel consulta o\r repositório público de atualizações e mostra \"Há uma nova versão\" com as novidades.\r Atualizar baixa o instalador, confere o SHA-256 e instala sem perguntas; depois é só\r reabrir o Premiere.\r\n- npm run publish:update publica a versão atual para os painéis instalados.",
+  "publishedAt": "2026-10-12T16:40:54.128Z"
+}
