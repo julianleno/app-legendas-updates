@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.0/AppLegendas-Setup-0.8.0.exe",
-  "sha256": "f5b69145b75b6d809164019bfac42cb4c14b458fd18ca8b72071a39b1bb80b64",
-  "notes": "- Cortar em sequência nova na aba Silêncios: depois de analisar, duplica a sequência, tira as pausas de todas as trilhas de uma vez (vídeo, áudio e legendas continuam sincronizados) e abre a cópia \"(sem silêncios)\". A sequência original não muda. Os cortes caem no quadro exato, sem quadro preto entre as partes (validado no Premiere 26.5.1). Marcar na timeline continua disponível.",
-  "publishedAt": "2026-10-12T19:29:59.334Z"
+  "version": "0.8.1",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.1/AppLegendas-Setup-0.8.1.exe",
+  "sha256": "964ac4abe754809de0e98b345422cdce23bed3b96d77d0e50b38a7555342528f",
+  "notes": "- O corte de silêncio comia palavras (\"segunda-feira\" virava \"feira\"). Em fala rápida gravada no celular, as sílabas curtas entre quase-silêncios eram tratadas como cliques e apagadas; agora só ruídos de menos de 30 ms são ignorados.\n- Em áudio sempre alto (música de fundo, compressão), o limite automático caía no nível da fala mais baixa. Ficou mais conservador, e a fala só termina abaixo de um segundo limite, mais baixo (como no Detect Silence do Cubase), para o fim das palavras não virar pausa. Conferido com a transcrição palavra por palavra em três vídeos reais.",
+  "publishedAt": "2026-10-12T20:13:07.528Z"
 }
