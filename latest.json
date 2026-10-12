@@ -1,7 +1,7 @@
 {
-  "version": "0.7.7",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.7.7/AppLegendas-Setup-0.7.7.exe",
-  "sha256": "bb34c5b5520e3b3d4483f8268ed8d7d01a15d189804e30bb81b38f810e32ba3b",
-  "notes": "- Aviso de versão nova: ao abrir, no máximo uma vez por dia, o painel consulta o\r repositório público de atualizações e mostra \"Há uma nova versão\" com as novidades.\r Atualizar baixa o instalador, confere o SHA-256 e instala sem perguntas; depois é só\r reabrir o Premiere.\r\n- npm run publish:update publica a versão atual para os painéis instalados.",
-  "publishedAt": "2026-10-12T16:47:17.499Z"
+  "version": "0.7.8",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.7.8/AppLegendas-Setup-0.7.8.exe",
+  "sha256": "b30e573f847ee145a45916baa65a3b214d67801c144caad5414c3e014eae16d3",
+  "notes": "- A extensão sai assinada com um certificado próprio (ZXPSignCmd da Adobe), passo do\r npm run build:installer. O instalador limpa a pasta da extensão antes de copiar,\r porque um arquivo de versão anterior invalidaria a assinatura. O modo de depuração do CEP\r continua ligado até a assinatura ser validada no Premiere.\r\n- O painel procura versão nova no máximo uma vez por hora (antes, uma vez por dia: uma\r versão publicada no mesmo dia só aparecia no dia seguinte).",
+  "publishedAt": "2026-10-12T18:22:46.229Z"
 }
