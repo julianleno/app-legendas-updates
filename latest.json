@@ -1,7 +1,7 @@
 {
-  "version": "0.8.3",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.3/AppLegendas-Setup-0.8.3.exe",
-  "sha256": "4676bc184b7a9b52571ab050b7316af8d05808b70bde15f9fd508f8889ce67c8",
-  "notes": "- Dicionário e substituir no passo 1: correções fixas, uma por linha (jota = Jota, bom jardim = Bom Jardim), aplicadas a toda transcrição nova; os nomes certos entram como dica para a transcrição. Trocar em todas as legendas busca e troca no texto inteiro. O tempo de cada palavra é mantido. - Quebra natural das legendas: uma legenda não termina mais em artigo ou preposição (\"vou para a\" / \"praia\"), fecha no ponto final e na vírgula, respeita as pausas da fala e não divide nomes próprios (\"no Bom Jardim\"). Em vez de deixar uma palavrinha sozinha na tela, a legenda leva uma palavra a mais. Conferido em três transcrições reais.",
-  "publishedAt": "2026-10-12T20:44:37.272Z"
+  "version": "0.8.4",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.4/AppLegendas-Setup-0.8.4.exe",
+  "sha256": "bc7ec338943ff79447ac21877dacf859c16528997cbcb3af09c2d8147f60adc6",
+  "notes": "- Destacar números e nomes: valores (\"R$ 50\", \"30%\", \"19\"), nomes próprios no meio da frase e palavras de ênfase (\"nunca\", \"grátis\", \"segredo\") saem na cor de destaque.\n- Emojis automáticos: um emoji acima da legenda quando a fala cita dinheiro, amor, tempo, oração, festa e outros temas, por um dicionário pt-BR local, no máximo um a cada 3 segundos. Os dois ficam embaixo de Altura na tela e valem para qualquer estilo.",
+  "publishedAt": "2026-10-12T20:51:18.259Z"
 }
