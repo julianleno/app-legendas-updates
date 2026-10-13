@@ -1,7 +1,7 @@
 {
-  "version": "0.8.4",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.4/AppLegendas-Setup-0.8.4.exe",
-  "sha256": "bc7ec338943ff79447ac21877dacf859c16528997cbcb3af09c2d8147f60adc6",
-  "notes": "- Destacar números e nomes: valores (\"R$ 50\", \"30%\", \"19\"), nomes próprios no meio da frase e palavras de ênfase (\"nunca\", \"grátis\", \"segredo\") saem na cor de destaque.\n- Emojis automáticos: um emoji acima da legenda quando a fala cita dinheiro, amor, tempo, oração, festa e outros temas, por um dicionário pt-BR local, no máximo um a cada 3 segundos. Os dois ficam embaixo de Altura na tela e valem para qualquer estilo.",
-  "publishedAt": "2026-10-12T20:51:18.259Z"
+  "version": "0.8.5",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.5/AppLegendas-Setup-0.8.5.exe",
+  "sha256": "0da7abc23a7703468892bd35448c82ece7e60518ff3d565f7cb55c5b2713d876",
+  "notes": "- Composição (estilo novo, do Jota): monta cada legenda como os modelos de texto do CapCut. Uma linha de apoio pequena (\"Se gostou\"), a palavra grande (\"desse\") e o fecho na cor de destaque (\"vídeo,\"), em escada, cada palavra subindo com desfoque quando é falada. Dá para escolher uma segunda fonte para a palavra grande (uma cursiva, por exemplo) e o tamanho da linha de apoio e do destaque. - Subida suave: a frase inteira ficava parada na tela e cada palavra \"entrava\" de novo por cima. Agora a palavra só aparece quando é falada.",
+  "publishedAt": "2026-10-13T02:26:35.769Z"
 }
