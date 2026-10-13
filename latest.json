@@ -1,7 +1,7 @@
 {
-  "version": "0.8.7",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.7/AppLegendas-Setup-0.8.7.exe",
-  "sha256": "864be967d32b6c139492913a7e183ba26a64d0e61e747a282c55dc4dcf70c308",
-  "notes": "- Composição idêntica ao modelo do Jota: as 4 disposições do projeto dele, medidas nos quadros exportados (\"Se gostou / desse / vídeo,\", \"Salva / e envia\", \"pro seu / AMIGO.\", \"Me segue aí / galera!\"), com fonte, peso, tamanho, recuo, entrelinha, posição na tela e sombra de cada uma. O app escolhe a disposição pela estrutura da frase. O controle Tamanho aumenta ou diminui o bloco todo; os tamanhos da linha de apoio e do destaque saíram, porque agora seguem o modelo.",
-  "publishedAt": "2026-10-13T13:16:39.772Z"
+  "version": "0.8.8",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.8/AppLegendas-Setup-0.8.8.exe",
+  "sha256": "5fbf69bd65c880c7f183488bbdbbdb9d8388ce0143bbb47021de05ec9f4cc214",
+  "notes": "- Botão de feedback (✉) no topo do painel: mande um problema, uma ideia ou um elogio direto do Premiere, com seu nome (opcional) e, se quiser, a versão e o registro do app. Cada envio chega para o desenvolvedor e vira uma tarefa no GitHub.",
+  "publishedAt": "2026-10-13T19:16:58.803Z"
 }
