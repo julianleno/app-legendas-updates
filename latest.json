@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.9.0/AppLegendas-Setup-0.9.0.exe",
-  "sha256": "8708141cc99aebaeb654887dce8b0a171b97a0fcd739f48034c274cc2cdb3d3b",
-  "notes": "- Meus estilos: salve o visual com um nome, ache no filtro \"Meus\" da galeria e exporte ou importe um .json para guardar por cliente ou passar para outra pessoa.\n- Alterar legendas já colocadas: selecione legendas na timeline, clique em \"Ler seleção\" e troque pelo visual atual no mesmo lugar. Com uma legenda só, dá para corrigir o texto dela. Vale para legendas geradas a partir desta versão.\n- Legendas acompanham os cortes: depois que a aba Cortes corta a sequência transcrita, a transcrição passa para a sequência nova (o que foi cortado sai, o resto volta no tempo), sem transcrever de novo. A opção \"Não atravessar cortes do vídeo\" divide a legenda onde muda o clipe nas trilhas abaixo dela.\n- Zoom nas palavras de destaque: zoom rápido no vídeo em números, nomes e palavras como \"nunca\" e \"grátis\", suave, médio ou forte, no máximo um a cada 3, 5 ou 8 s. \"Tirar o zoom\" devolve a escala de antes; clipes que você já animou ficam como estão.\n- Efeitos sonoros: pop, whoosh, clique ou ding em cada legenda ou nos destaques, numa trilha de áudio livre. Os sons são gerados pelo próprio app, sem direitos autorais.\n- Modelos de texto no \"Escrever meu texto\": ganchos, chamadas para o fim e nome e cargo, e a escolha de onde entram (na agulha, no começo ou terminando no fim do vídeo).",
-  "publishedAt": "2026-10-14T16:27:54.340Z"
+  "version": "0.9.1",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.9.1/AppLegendas-Setup-0.9.1.exe",
+  "sha256": "ec61ab538b1ac21ba3a75118933049708d3d2b07ac07d13fa95b1a38eaa66455",
+  "notes": "- Zoom só aumenta o vídeo: legendas do App Legendas, imagens (logo, PNG) e textos que estiverem em trilhas abaixo da legenda não são mais ampliados junto.",
+  "publishedAt": "2026-10-14T19:16:24.919Z"
 }
