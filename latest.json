@@ -1,7 +1,7 @@
 {
-  "version": "0.8.8",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.8/AppLegendas-Setup-0.8.8.exe",
-  "sha256": "5fbf69bd65c880c7f183488bbdbbdb9d8388ce0143bbb47021de05ec9f4cc214",
-  "notes": "- Botão de feedback (✉) no topo do painel: mande um problema, uma ideia ou um elogio direto do Premiere, com seu nome (opcional) e, se quiser, a versão e o registro do app. Cada envio chega para o desenvolvedor e vira uma tarefa no GitHub.",
-  "publishedAt": "2026-10-13T19:16:58.803Z"
+  "version": "0.8.9",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.8.9/AppLegendas-Setup-0.8.9.exe",
+  "sha256": "9e279e0d1e4530d4321edfbb54c7cfb5cf70432ff80b374f9b6e99b2a6210b8c",
+  "notes": "- Escrever meu texto (sem áudio), no passo 1 da aba Legendas: escreva um texto por linha, escolha quantos segundos cada um fica na tela e clique em \"Usar este texto\". Os textos entram um depois do outro a partir da agulha da timeline, inteiros como você escreveu, com o estilo ou template que você escolher. As palavras aparecem no ritmo de fala, então os estilos que revelam ou destacam palavra por palavra também funcionam.",
+  "publishedAt": "2026-10-14T02:50:01.632Z"
 }
