@@ -1,7 +1,7 @@
 {
-  "version": "0.9.5",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.9.5/AppLegendas-Setup-0.9.5.exe",
-  "sha256": "ba6dd5e3e509464cdbdba17b5c708fb56ced048499a7a8b9c4552b3b8850397d",
-  "notes": "- Um clique em cada palavra, como no CapCut: em Efeitos sonoros, \"Em cada palavra\" é o novo padrão. Quando a próxima palavra chega antes de o som acabar, o anterior é aparado.\n- 6 cliques novos (Clique de mouse, Clique duplo, Estalo, Tique agudo, Tique suave, Toque grave), cortados para o som cair junto com a palavra, e um botão Ouvir.\n- Editor de linhas da legenda, como o painel Legendas do Premiere: cada legenda que vai para a timeline, numerada, com entrada e saída. Corrija o texto e os tempos; Enter divide onde está o cursor e Backspace no começo junta com a de cima. A linha da agulha fica marcada e clicar no número leva a agulha até ela.\n- Painel Texto como o do Premiere: todas as fontes do computador (cada nome na própria fonte), estilo (Regular a Black), tamanho, alinhamento, espaço entre letras, entrelinha, itálico, maiúsculas e sublinhado. Os números azuis mudam arrastando para os lados.\n- Cada palavra aparece quando é falada: nova opção dos estilos, ligada no Branco essencial, em que cada palavra entra com o pulinho na hora da fala.\n- Legenda fora do tempo da fala: o app confere no áudio onde a fala recomeça depois de cada pausa e acerta ali o início da palavra (o Whisper adiantava ou atrasava até meio segundo).\n- Uma frase inteira podia perder o tempo de cada palavra quando o Whisper repetia um tempo.\n- Palavras com hífen e nomes não se dividem mais entre duas legendas (\"pré-treino\", \"professor Robson\").\n- O seletor de fonte mostrava só a fonte já escolhida.",
-  "publishedAt": "2026-10-16T13:34:58.307Z"
+  "version": "0.9.6",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.9.6/AppLegendas-Setup-0.9.6.exe",
+  "sha256": "c3897a773614ebcce245da19f5482a43770705d1631c6e3fb7684a3d0abbae08",
+  "notes": "- Destaques escolhidos por IA (teste): em Legendas > Visual, ligue a opção e cole o código de acesso. A IA lê a fala e escolhe a palavra forte de cada frase para a cor, o Zoom e os sons. Só o texto sai do computador.\n- A IA aprende o seu gosto: no editor de linhas, a ★ de cada linha mostra a palavra de destaque. Troque por outra (ou \"Nenhuma\") e a correção vale na hora e entra como exemplo nas próximas análises.",
+  "publishedAt": "2026-10-16T17:47:22.095Z"
 }
