@@ -1,7 +1,7 @@
 {
-  "version": "0.9.3",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.9.3/AppLegendas-Setup-0.9.3.exe",
-  "sha256": "fe5989699381bcf40e9af8140297680e7cdf125a533c7de0c755fbbaeaa610ea",
-  "notes": "- Transcrição na placa de vídeo: o Whisper usa a GPU (AMD, NVIDIA ou Intel, via Vulkan) quando há uma; sem placa compatível continua na CPU, com o mesmo texto. O ganho depende do PC: num PC de 12 núcleos com RX 580 a Boa ficou 10–30% mais rápida e a Máxima até 3x mais rápida; em processadores mais fracos a diferença tende a ser maior.\n- Se a placa falhar (driver antigo ou memória de vídeo cheia com o Premiere aberto), a transcrição continua sozinha na CPU e o app não tenta a GPU de novo até reabrir o painel.",
-  "publishedAt": "2026-10-15T00:25:37.619Z"
+  "version": "0.9.4",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.9.4/AppLegendas-Setup-0.9.4.exe",
+  "sha256": "d4b067ce617e346f22ac5439a5a0f7ac3741933b5b1420c39e53db4c31a3b8d9",
+  "notes": "- Baixar vídeo: cole um link do YouTube ou do Instagram e baixe em vídeo (MP4) ou só o áudio (MP3). O arquivo entra no projeto e vai para a timeline, na agulha, na primeira trilha livre; nada é sobrescrito.\n- Novidades depois de atualizar: na primeira abertura de uma versão nova, um aviso mostra o que mudou.\n- Tela inicial com as ferramentas: Legendas, Cortes, Zoom, Efeitos sonoros e Baixar vídeo ficam em cartões; cada ferramenta abre com um botão para voltar.\n- Legendas em abas (Texto, Visual, Colocar), com a prévia do estilo sempre à vista.\n- Qualidade da transcrição, zoom e sons escolhidos com botões lado a lado, em vez de listas.\n- A transcrição mostra cada etapa (preparar, extrair o áudio, transcrever, montar as frases) enquanto roda.",
+  "publishedAt": "2026-10-16T02:17:34.329Z"
 }
