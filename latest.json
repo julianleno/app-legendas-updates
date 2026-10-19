@@ -1,7 +1,7 @@
 {
-  "version": "0.10.2",
-  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.10.2/AppLegendas-Setup-0.10.2.exe",
-  "sha256": "4ccbf392245eb58f41c70bafe088a726c71781b7d53f600c278c3962bffa0637",
-  "notes": "- Zoom em camadas de ajuste (o novo padrão): cada zoom fica numa camada de ajuste acima do vídeo, com o Transformar suavizado (100% a 130% em 2 s, alternando aproximar e afastar). Dá para arrastar, copiar ou apagar cada uma. O zoom direto no clipe continua em \"Onde: No clipe\".\n- Legendas básicas: grupo \"Básicas\" na galeria com Branca, Branca com contorno e Amarela com contorno, sem animação.\n- Criar Motion (com a Capi): ponha a agulha onde quer o motion, escolha \"Tela inteira\" ou \"Junto com a pessoa\" e a Capi lê a fala ali e traz 2 ou 3 ideias (número que conta, título ou lista), com prévia animada. A escolhida entra na agulha como clipe com transparência, numa trilha livre. Na primeira vez ela pede o kit da marca (nicho, cores e fonte).\n- Os estilos que eram \"Do Jota\" viram \"★ Destaques\", com selo dourado.\n- Silêncios: um limite só, \"Corta abaixo de (dB)\", e o respiro. \"Analisar silêncios\" mostra o volume medido do ruído de fundo e da fala; com o limite manual, conversa ao fundo logo depois da fala também sai. O \"Silêncio mínimo (ms)\" saiu da tela (vem do ritmo escolhido).\n- Efeitos com som (ex.: Text Cinematic 07 OUT) podiam fazer a exportação do vídeo falhar com \"Erro ao compilar o filme\": o som agora entra importado da pasta da biblioteca, no mesmo tempo de antes.\n- Uma chave da Anthropic vencida no Windows não trava mais a IA: o painel passa a pedir o código.",
-  "publishedAt": "2026-10-19T15:39:26.554Z"
+  "version": "0.10.3",
+  "url": "https://github.com/julianleno/app-legendas-updates/releases/download/v0.10.3/AppLegendas-Setup-0.10.3.exe",
+  "sha256": "f34f4655247dc6c228bc82f31585244977343bcfb82c8a98142702c2f2e96027",
+  "notes": "- 7 estilos novos em ★ Destaques, palavra por palavra no meio da tela: Chega na diagonal, Sobe e assenta, Sobe com foco, Desliza e foca, Entra pela esquerda, Palavra a palavra e Redonda que foca. Fontes Space Grotesk e Jost agora vêm com o app.\n- Três entradas novas em \"Como o texto aparece\": Chega na diagonal, Sobe e assenta e Desliza da esquerda com desfoque.\n- Nos estilos em que a palavra aparece quando é falada, a palavra anterior termina a entrada em vez de pular para o lugar quando a seguinte começa.",
+  "publishedAt": "2026-10-19T18:36:34.044Z"
 }
